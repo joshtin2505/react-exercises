@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+img {
+    width: 400px;
+}
+
+button {
+    border: 0;
+    background: #3598db;
+    padding: 5px 10px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all .3s;
+}
+
+button:hover {
+    box-shadow: 1px 1px 5px #282828
+}
