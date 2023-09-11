@@ -1,0 +1,76 @@
+{
+    "Search": [
+      {
+        "Title": "Exodus: Gods and Kings",
+        "Year": "2014",
+        "imdbID": "tt1528100",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3MDY0NjkxNl5BMl5BanBnXkFtZTgwNTM3NTA0MzE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Spartacus: Gods of the Arena",
+        "Year": "2011",
+        "imdbID": "tt1758429",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjI4NzYxOF5BMl5BanBnXkFtZTcwNTUwMTc1NA@@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Gods of Egypt",
+        "Year": "2016",
+        "imdbID": "tt2404233",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjExODg3MDUzNl5BMl5BanBnXkFtZTgwNjExMjE3NzE@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Shazam! Fury of the Gods",
+        "Year": "2023",
+        "imdbID": "tt10151854",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_SX300.jpg"
+      },
+      {
+        "Title": "American Gods",
+        "Year": "2017–2021",
+        "imdbID": "tt1898069",
+        "Type": "series",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTdhNGE2MGQtNzMxYi00ZTNlLWFkMzAtMDY3OGZiNjQxZWNlXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg"
+      },
+      {
+        "Title": "The Gods Must Be Crazy",
+        "Year": "1980",
+        "imdbID": "tt0080801",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmExNTIzZTQtMmUxNC00NTUwLTg1MTgtMzUxYWE5ZjdmZGRmXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_SX300.jpg"
+      },
+      {
+        "Title": "Gods and Monsters",
+        "Year": "1998",
+        "imdbID": "tt0120684",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDczYmY3Y2UtZGQxZi00Zjg1LTk3N2QtMjk4ZGVmYWYwMWQxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Dragon Ball Z: Battle of Gods",
+        "Year": "2013",
+        "imdbID": "tt2263944",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwOWJlZTYtYWFlNy00Y2NiLWEyMDgtODM0MjE3ZGZlODZiXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg"
+      },
+      {
+        "Title": "The Gods Must Be Crazy II",
+        "Year": "1989",
+        "imdbID": "tt0097443",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzg5OTczM2QtNjgxOC00NjZkLTllZDAtMjViYjJjNzE3NDJmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg"
+      },
+      {
+        "Title": "Along With the Gods: The Two Worlds",
+        "Year": "2017",
+        "imdbID": "tt7160070",
+        "Type": "movie",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2FjN2Q0ZWQtN2NiOC00MTZjLTg3ZDEtMmVkNzM0ODBkYmU1XkEyXkFqcGdeQXVyNTUxNTI3MzY@._V1_SX300.jpg"
+      }
+    ],
+    "totalResults": "597",
+    "Response": "True"
+  }
