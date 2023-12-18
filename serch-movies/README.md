@@ -4,7 +4,7 @@ Crea una aplicación para buscar películas
 
 API a usar: - `https://www.omdbapi.com/`
 API KEY - `3117a857`
-END_POINT - `http://www.omdbapi.com/?apikey=3117a857&s=${serch}`
+END_POINT - `http://www.omdbapi.com/?apikey=3117a857&s=${search}`
 Requerimientos:
 
 ✅ Necesita mostrar un input para buscar la película y un botón para buscar.
