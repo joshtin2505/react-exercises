@@ -20,7 +20,9 @@ function Footer() {
         }
         {
             IS_DEV && (
-                <p>{JSON.stringify(filters)}</p>
+                <p>
+                    {JSON.stringify(filters)}
+                </p>
             )
         }
         ...
